@@ -16,7 +16,7 @@ class Dog
 	  @@all
 	end
 	
-	def save
+	def self.save
 	  
 	end
 	
